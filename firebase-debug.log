@@ -1,0 +1,21 @@
+[debug] [2019-06-28T13:29:00.770Z] ----------------------------------------------------------------------
+[debug] [2019-06-28T13:29:00.775Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\pre_s\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-06-28T13:29:00.775Z] CLI Version:   6.8.0
+[debug] [2019-06-28T13:29:00.775Z] Platform:      win32
+[debug] [2019-06-28T13:29:00.775Z] Node Version:  v10.15.3
+[debug] [2019-06-28T13:29:00.783Z] Time:          Fri Jun 28 2019 15:29:00 GMT+0200 (Central European Summer Time)
+[debug] [2019-06-28T13:29:00.783Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-06-28T13:29:00.800Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-06-28T13:29:00.802Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\pre_s\Desktop\BACKUP\redux implementacija
+
