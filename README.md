@@ -1,6 +1,6 @@
 # Social
 
-[DEMO](https://places-mern-c8f5b.web.app/)
+[DEMO](https://social-ape-5af85.web.app/)
 
 ##### Twitter like app. Post your tweets and comment on others
 
