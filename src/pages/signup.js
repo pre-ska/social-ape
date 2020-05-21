@@ -43,7 +43,7 @@ const styles = {
   customError: {
     color: "red",
     fontSize: "0.8 rem",
-    margintop: 10
+    marginTop: 10
   },
   progress: {
     position: "absolute"
@@ -164,7 +164,8 @@ class signup extends Component {
               variant="contained"
               color="primary"
               className={classes.button}
-              disabled={loading}>
+              disabled={loading}
+            >
               Signup
               {loading && (
                 <CircularProgress className={classes.progress} size={30} />
@@ -194,7 +195,6 @@ const mapStateToProps = state => ({
   UI: state.UI
 });
 
-export default connect(
-  mapStateToProps,
-  { signupUser }
-)(withStyles(styles)(signup));
+export default connect(mapStateToProps, { signupUser })(
+  withStyles(styles)(signup)
+);
